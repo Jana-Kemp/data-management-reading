@@ -269,3 +269,12 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## Centre of Open Science's Transparency and Openess Promotion Guidelines
+
+The Transparency and Openness Promotion (TOP) guidelines from the Centre for Open Science (COS) provides a framework for improved transparency, reproducibility, and overall integrity in research. Introduced in 2015, these guidelines set 8 standards with different levels of implementation for researchers and journals to strive for in the movement towards open science. These include citation standards, replication, and data or analytical methods transparency among others. This website allows you to explore these guidelines and understand best practices to improve your own research. You can also search for specific journals to see what measures they are taking to ensure the transparency of the work they publish. These guidelines help build a strong foundation for reducing error and bias in research, and encourage collaboration and replication between researchers thereby increasing the credibility and visibility of scientific research being done. 
+
+Link: https://www.cos.io/initiatives/top-guidelines
+
+> Contributor: Jana
